@@ -48,6 +48,7 @@ document.addEventListener('DOMContentLoaded', function () {
         event.preventDefault(); // Prevent the default form submission behavior
     }
     });
+    
 });
 
 
